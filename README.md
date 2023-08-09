@@ -1,5 +1,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=cirillojon&theme=tokyonight-duo)](https://git.io/streak-stats)
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cirillojon&langs_count=10&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Gift's language" width="400px"/>
+
 <!--
 **cirillojon/cirillojon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
