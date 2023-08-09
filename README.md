@@ -1,7 +1,8 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=cirillojon&theme=tokyonight-duo)](https://git.io/streak-stats)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cirillojon&size_weight=0.25&count_weight=0.75&langs_count=6&layout=compact&theme=tokyonight)
+## 🎯 GitHub Profile Stats
+<div>
+  <img align="center" src="https://streak-stats.demolab.com?user=cirillojon&theme=tokyonight-duo)](https://git.io/streak-stats" width="400px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cirillojon&size_weight=0.25&count_weight=0.75&langs_count=6&layout=compact&theme=tokyonight" alt="Gift's language" width="400px"/>
+</div>
 
 <!--
 **cirillojon/cirillojon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
