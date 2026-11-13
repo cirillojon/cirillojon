@@ -1,5 +1,5 @@
 <div>
-  <img align="center" src="https://streak-stats.demolab.com?user=cirillojon&theme=tokyonight&hide_border=true" width="400px"/>
+  <img align="center" src="https://streak-stats.demolab.com?user=cirillojon&theme=tokyonight&hide_border=true" width="1000px"/>
 </div>
 
 
